@@ -21,4 +21,4 @@
     anotherEgg.size = "AAA";
     console.log("How large are you:" + anotherEgg.size);
 
-})();
+})(); 
